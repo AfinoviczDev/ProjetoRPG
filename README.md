@@ -74,7 +74,7 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 Abra o projeto em uma IDE Java
 
-Execute a classe principal (Main)
+Execute a classe principal (Jogo)
 
 📚 Aprendizados
 
